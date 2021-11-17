@@ -1,0 +1,64 @@
+E-Commerce jual ayam panggang
+
+1. Masalah (UX-Research)
+
+a. objek
+- kendala kendala user 
+- masalah masalah apa yg dihadapi
+
+b. hipotesis
+- pernyataan
+
+c. metode
+- interview
+- survey
+- observasi
+
+pertanyaan:
+	1. umur
+	2. Jenis Kelamin 
+	3. Apa profesimu saat in?
+	4. Apa anda sering makan ayam panggang?
+	5. Dimanakah tempat yang lebih kamu sukai pada saat Membeli ayam panggang ?
+	6. Apakah anda pernah membeli ayam panggang secara online ?
+	7. Apa yang membuat anda suka dengan masakan ayam panggang ?
+	9. Kapan kamu biasanya membeli ayam panggang?
+	10. Adakakah kesulitan ketika kamu berbelanja online..? Atau kamu menginginkan suatu fitur yang ada di aplikasi tempat kamu berbelanja online..?
+	
+d. analisis (setelah melakukan survey)	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
