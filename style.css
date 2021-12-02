@@ -67,28 +67,7 @@ header{
     color: var(--main-color);
 }
 
-.login{
-    display: flex;
-}
-
-.login a{
-    padding: 10px 20px;
-    color: var(--text-color);
-}
-
-.login .btn-1{
-    display: inline-block;
-    background: var(--main-color);
-    padding: 10px 20px;
-    border-radius: 0.5rem;
-    color: #fff;
-}
-
-.login .btn-1:hover{
-    background: #B35E2C;
-}
-
-#menu-icon, #menu-log{
+#menu-icon{
     font-size: 2rem;
     cursor: pointer;
     display: none;
@@ -441,7 +420,7 @@ section{
 
 @media(max-width: 1300px){
     
-    #menu-icon, #menu-log{
+    #menu-icon{
         display: initial;
         color: var(--text-color);
         background-color: var(--main-color);
